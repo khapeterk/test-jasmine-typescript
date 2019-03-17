@@ -3,8 +3,6 @@
     "name": "test-jasmine-typescript",
     "version": "2.0.0",
     "scripts": {
-        "clear:all": "rm -rf node_modules/ npm-debug.log",
-        "pretest": "clear",
         "test": "jasmine JASMINE_CONFIG_PATH=jasmine.json"
     },
     "devDependencies": {
