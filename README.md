@@ -3,15 +3,25 @@
 > :ledger: Test project with Jasmine & TypeScript
 
 ## Setup
-
+If using npm
 ```
 $ npm install
 ```
 
-## Unit tests
+If using yarn
+```
+$ yarn
+```
 
+## Unit tests
+If using npm
 ```
 $ npm test
+```
+
+If using yarn
+```
+$ yarn test
 ```
 
 ## License
